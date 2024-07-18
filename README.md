@@ -1,7 +1,5 @@
 # Hi! I'm Sevil 👋
 
-## About Me
-
 Hey there! I'm Sevil, a game dev nerd. I breathe code and dream in polygons. Six years ago, I dived into the world of game development. I co-founded Umay Game Studio, where I turned caffeine and ideas into mobile games.
 
 When I'm not smashing bugs or designing game levels, you can find me geeking out over the latest in tech, leveling up my skills, or plotting my next big project. I'm all about solving puzzles—whether that's in a game or in my code.
