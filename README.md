@@ -21,12 +21,7 @@ When I'm not smashing bugs or designing game levels, you can find me geeking out
 ### [SUIChess](https://github.com/sevilerdal/MoveOnSui-Project)
 - **Technologies**: Move, Smart Contract, WELLDONE Wallet, Remix IDE
 
-## Fun Facts
-- I once stayed up for 48 hours straight to squash a bug—coffee is my best friend.
-- I named my computer "Jarvis" and talk to it like it's a real assistant.
-- I have a collection of game consoles from the 90s.
 
 ## Contact Me 📫
 - [LinkedIn](https://www.linkedin.com/in/sevil-erdal/)
-- [GitHub](https://github.com/sevilerdal)
 - [Email](mailto:sevil.ozgur.erdal@gmail.com)
