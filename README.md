@@ -13,7 +13,7 @@ When I'm not smashing bugs or designing game levels, you can find me geeking out
 ### [Safe Password Generator](https://github.com/sevilerdal/SafePasswordGenerator)
 - **Technologies**: Chrome Extension, JavaScript, HTML, CSS, JSON
 
-### [Restoration 3D](https://github.com/sevilerdal/Restoration3D)
+### [Restoration 3D]
 - **Technologies**: C#, Unity3D, Android, ShaderLab, Particle System, DOTween, Texture Paint, Blender, Sound Design
 
 ### [SUIChess](https://github.com/sevilerdal/MoveOnSui-Project)
