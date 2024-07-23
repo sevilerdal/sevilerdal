@@ -6,7 +6,7 @@ When I'm not smashing bugs or designing game levels, you can find me geeking out
 
 ## Code Samples
 
-### [Repository][https://github.com/sevilerdal/CodeSamples]
+### [Repository](https://github.com/sevilerdal/CodeSamples)
 
 ## Projects
 
