@@ -4,6 +4,9 @@ Hey there! I'm Sevil, a game dev nerd. I breathe code and dream in polygons. Six
 
 When I'm not smashing bugs or designing game levels, you can find me geeking out over the latest in tech, leveling up my skills, or plotting my next big project. I'm all about solving puzzles—whether that's in a game or in my code.
 
+## Code Samples
+
+### [Repository][https://github.com/sevilerdal/CodeSamples]
 
 ## Projects
 
